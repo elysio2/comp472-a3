@@ -1,4 +1,4 @@
-Assignment 3
+Assignment 3 : https://github.com/elysio2/comp472-a3
 
 Uses Pandas as the only external dependancy, otherwise uses collections and math libraries. 
 
